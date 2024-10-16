@@ -1,21 +1,2 @@
-<<<<<<< HEAD
 545556566 
 ;ldf;lslslf,lsdfb;dfjkl;lmknhgfghjkl;';,lkjnhbghjkl
-=======
-sdsasdasfaffasf
-afsafasfsafsafas
-dsadsafasfsdafdf
-dcadcdafdafadf
-fqfqfqfeqfewvdwvdwc
-dwcdwcdwcwdcwcwe
-cwdcwdcwdcwdc
-dwcwcdwcdwcdwcwdcwdcwdc
-wdcdwcdwcdwcdw
-cwdcdwcdwcdwcdwcdwcdw
-cdwcdwcdwcdwcdw
-cdwcdwcdwcdwcdwcdwcdwcdwc
-wcdwcdwc
-dwcwdcdwcdwcdwc
-dwcwdcwdcdwcdwcwdc
-
->>>>>>> refs/remotes/origin/maind
