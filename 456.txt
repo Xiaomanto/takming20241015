@@ -1,10 +1,40 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 545556566 
 ;ldf;lslslf,lsdfb;dfjkl;lmknhgfghjkl;';,lkjnhbghjkl
+=======
+<<<<<<< HEAD
+1234567890
+1234567890-
+1234567890
+1234567890-1234567
+123456789
+=======
+sdsasdasfaffasf
+afsafasfsafsafas
+dsadsafasfsdafdf
+dcadcdafdafadf
+fqfqfqfeqfewvdwvdwc
+dwcdwcdwcwdcwcwe
+cwdcwdcwdcwdc
+dwcwcdwcdwcdwcwdcwdcwdc
+wdcdwcdwcdwcdw
+cwdcdwcdwcdwcdwcdwcdw
+cdwcdwcdwcdwcdw
+cdwcdwcdwcdwcdwcdwcdwcdwc
+wcdwcdwc
+dwcwdcdwcdwcdwc
+dwcwdcwdcdwcdwcwdc
+
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 6e6b53b934c269111cb51227a01a29930166d328
 =======
 rbgbrvgrv
 rfer
 gvre
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
 fbvrfb
 bgb gt 
 gtbtgb
@@ -12,4 +42,14 @@ tgb
 tbtr
 bt
 rb
+<<<<<<< HEAD
 >>>>>>> 01274f7b5568c6f8fe198959b0dddc6630df5b6e
+=======
+>>>>>>> refs/remotes/origin/main
+
+fje;jt;atldfja;ejeyrh
+
+
+trgtrbrt
+trhtrhrt
+>>>>>>> 6e6b53b934c269111cb51227a01a29930166d328
