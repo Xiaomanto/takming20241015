@@ -12,4 +12,11 @@ bt
 rb
 
 fje;jt;atldfja;ejeyrh
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+
+
+trgtrbrt
+trhtrhrt
 >>>>>>> refs/remotes/origin/main
