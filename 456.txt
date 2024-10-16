@@ -27,4 +27,14 @@ dwcwdcwdcdwcdwcwdc
 rbgbrvgrv
 rfer
 gvre
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+=======
+fbvrfb
+bgb gt 
+gtbtgb
+tgb
+tbtr
+bt
+rb
 >>>>>>> refs/remotes/origin/main
