@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+fjoiwejfowf
+=======
 trherhnreth
+>>>>>>> refs/remotes/origin/main
