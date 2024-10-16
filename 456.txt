@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+rbgbrvgrv
+rfer
+gvre
+=======
 sdsasdasfaffasf
 afsafasfsafsafas
 dsadsafasfsdafdf
@@ -11,6 +16,7 @@ cwdcdwcdwcdwcdwcdwcdw
 cdwcdwcdwcdwcdw
 cdwcdwcdwcdwcdwcdwcdwcdwc
 wcdwcdwc
-dwcwdcdwcdwcdwc
+brvftbdwcwdcdwcdwcdwc
 dwcwdcwdcdwcdwcwdc
 
+>>>>>>> refs/remotes/origin/main
