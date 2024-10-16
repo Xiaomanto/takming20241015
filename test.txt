@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ihefoihwoefhwo
+=======
+adfadfadf
+dafadfadfadf
+adfadfadfda
+fadfadfadf
+>>>>>>> refs/remotes/origin/main
