@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 1234567890
 1234567890-
 1234567890
 1234567890-1234567
 123456789
+=======
+sdsasdasfaffasf
+afsafasfsafsafas
+dsadsafasfsdafdf
+dcadcdafdafadf
+fqfqfqfeqfewvdwvdwc
+dwcdwcdwcwdcwcwe
+cwdcwdcwdcwdc
+dwcwcdwcdwcdwcwdcwdcwdc
+wdcdwcdwcdwcdw
+cwdcdwcdwcdwcdwcdwcdw
+cdwcdwcdwcdwcdw
+cdwcdwcdwcdwcdwcdwcdwcdwc
+wcdwcdwc
+dwcwdcdwcdwcdwc
+dwcwdcwdcdwcdwcwdc
+
+>>>>>>> refs/remotes/origin/main
