@@ -2,4 +2,9 @@ sajg;le
 SLKjrKE
 SHJTWK
 SLKJTKE
+<<<<<<< HEAD
 sjkdt;
+11月1號是我生日
+=======
+sjkdt;
+>>>>>>> 6187c4b1f2da1065cf670547dcfa17519896aeaa
