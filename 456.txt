@@ -20,5 +20,14 @@ cwdcwdcwdcwdc
  
 
 
+<<<<<<< Updated upstream
 這是我的研發內容
 20241016
+=======
+trgtrbrt
+trhtrhrt
+>>>>>>> 6e6b53b934c269111cb51227a01a29930166d328
+
+這是我的研發內容 許榮泰
+20241016 2009
+>>>>>>> Stashed changes
